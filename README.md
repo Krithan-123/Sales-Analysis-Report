@@ -8,7 +8,6 @@ This project analyzes sales performance across different regions, categories, an
 
 * Power BI
 * Excel / CSV
-* SQL (if used)
 
 ## 🔹 Key Insights
 
@@ -23,12 +22,6 @@ This project analyzes sales performance across different regions, categories, an
 <img width="1015" height="568" alt="Screenshot 2026-04-01 130626" src="https://github.com/user-attachments/assets/59f3c8f1-9c7b-4895-8af2-04c9e67fa196" />
 <img width="1021" height="568" alt="Screenshot 2026-04-01 130603" src="https://github.com/user-attachments/assets/3dac80ca-de8a-4706-9303-a160a1124ccb" />
 <img width="1028" height="570" alt="Screenshot 2026-04-01 130542" src="https://github.com/user-attachments/assets/1b6060fb-b5e9-4217-a0b2-bbbc412b12d3" />
-
-
-## 🔹 Files Included
-
-* `dashboard.pbix` → Power BI file
-* `dataset.csv` → Dataset used
 
 ## 🔹 How to Use
 
